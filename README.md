@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Kukulhubismv/Egg-Search/blob/3aed9ac1a780c5b612d6c507905f8b998ad921a5/static/uv.png" height="200">
+<p align="center"><img src="https://github.com/Kukulhubismv/Egg-Search/blob/3aed9ac1a780c5b612d6c507905f8b998ad921a5/static/uv.png">
 </p>
 
 <h1 align="center">Egg-search</h1>
