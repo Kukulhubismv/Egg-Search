@@ -156,4 +156,5 @@ The client-hooking & service worker scripts required for UV are located in [ultr
 
 # Credits
 - https://github.com/tomphttp
+- https://github.com/titaniumnetwork-development/Ultraviolet-Node.git
 
