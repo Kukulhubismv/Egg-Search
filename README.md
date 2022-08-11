@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/Kukulhubismv/Egg-Search/blob/3aed9ac1a780c5b612d6c507905f8b998ad921a5/static/uv.png" height="200">
 </p>
 
-h1 align="center">Egg-search</h1>
+<h1 align="center">Egg-search</h1>
 
-<p align="center">The deployable version of Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
+<p align="center">Egg-Search, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
